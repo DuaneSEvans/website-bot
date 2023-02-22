@@ -19,7 +19,7 @@ class WebSiteIDs:
     EMAIL = "Input_UserName"
     PASSWORD = "Input_Password"
     CALENDAR_TAB = (
-        "AthleteTheme_wtLayoutNormal_block_wtMenu_AthleteTheme_wt67_block_wt37"
+        "AthleteTheme_wtLayoutNormal_block_wtMenu_AthleteTheme_wt67_block_wt38"
     )
     DATE_PICKER = "AthleteTheme_wt6_block_wtMainContent_wt9_W_Utils_UI_wt216_block_wtDateInputFrom"
     TABLE = "AthleteTheme_wt6_block_wtMainContent_wt9_wtClassTable"
